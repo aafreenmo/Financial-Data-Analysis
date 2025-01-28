@@ -20,5 +20,5 @@ This Project features an interactive Power BI dashboard designed to analyze and 
 
 ## View
 ![image alt](https://github.com/aafreenmo/Financial-Data-Analysis/blob/96ff366fc77a5bc37eb06b730d02ff0dabb07764/Pictures/Screenshot%20(11).png)
-![image alt]()
+![image alt](https://github.com/aafreenmo/Financial-Data-Analysis/blob/5776e7560394e757f36ddac3efa3efc2679c8f22/Pictures/Screenshot%20(12).png)
 
