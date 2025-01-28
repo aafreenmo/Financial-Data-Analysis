@@ -19,3 +19,6 @@ This Project features an interactive Power BI dashboard designed to analyze and 
 - Seasonality
 
 ## View
+![Alt Text](path/to/image)
+![Alt Text](path/to/image)
+
