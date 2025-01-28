@@ -19,6 +19,6 @@ This Project features an interactive Power BI dashboard designed to analyze and 
 - Seasonality
 
 ## View
-![image alt]()
+![image alt](https://github.com/aafreenmo/Financial-Data-Analysis/blob/96ff366fc77a5bc37eb06b730d02ff0dabb07764/Pictures/Screenshot%20(11).png)
 ![image alt]()
 
